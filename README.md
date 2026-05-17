@@ -1,4 +1,5 @@
-##SIMPLE CALUCULATOR
+#SIMPLE CALUCULATOR
+
 Built basic calulator application using python.
 
 ##Features
@@ -7,5 +8,5 @@ Built basic calulator application using python.
 - Multiplication
 - Division
 
-##Technology used
+##Technologies used
 - Python
